@@ -6,3 +6,4 @@ git rm
 git status
 git diff
 git commit　--amend
+conflict
